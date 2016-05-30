@@ -1,5 +1,5 @@
 # Site settings
-title: Microdust
+title: Rowley Ruan
 header-img: "img/autumn2.jpg"
 tagline: "吉光片羽"  
 description: "在遙遠的地方 一切虔誠終必相遇"  
@@ -9,8 +9,8 @@ url: "http://ruanhouli.com"
 
 # About/contact
 owner: 
-  name: "Azeril"
-  email: azeril@live.cn
+  name: "ruanhouli"
+  email: ruanhouli@gmail.com
   bio: "明朝即長路 惜取此時心"
 
 # Data
@@ -21,8 +21,8 @@ douban_username: ruanhouli
 twitter_username: ruanhouli
 github_username: ruanhouli
 facebook_username: ruanhouli
-weibo_username: ruanhouli  
-zhihu_username: ruanhouli  
+weibo_username: rowleyHarry
+zhihu_username: rowley-ruan  
 
 # Build settings  
 # use Github Flavored Markdown !important  
