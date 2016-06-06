@@ -1,18 +1,18 @@
 ---  
 layout: post  
-title: iOS Apps 优选清单  
+title: Android Apps 优选清单  
 categories: [blog ]  
-tags: [iOS, App ]
+tags: [App ]
 description: 对于工具的探索，进一步让自己可以脱离预设的局限，前进  
 ---  
 
-## 即时通讯
+# 即时通讯
 
 * WeChat
 * Telegram
 * Skype
 
-## 笔记/文字处理
+# 笔记/文字处理
 
 * Day One 日记应用
 * Smartisan Note 锤子便签
@@ -22,7 +22,7 @@ description: 对于工具的探索，进一步让自己可以脱离预设的局�
 * iA Writer
 * TextGrabber/Scanner Pro OCR 图像扫描
 
-## 工具包
+# 工具包
 
 * 搜狗输入法
 * Pasteasy/Pushbullet/Instashare(类 Airdrop)  剪贴板增强
@@ -35,27 +35,27 @@ description: 对于工具的探索，进一步让自己可以脱离预设的局�
 * 有数 计算器
 * Hours
 
-## 壁纸
+# 壁纸
 
 * Topia
 * iDaily
 * Line Deco
 
-## 阅读
+# 阅读
 
 * Instapaper
 * GoodReader 打开各类文档
 * 豆瓣阅读
 * 多看阅读
 
-#### 主题类
+# 主题类
 
 * 好奇心日报
 * Medium
 * 知乎日报
 * MONO
 * 
-#### 新闻类
+# 新闻类
 
 * Yahoo News Digest
 * 澎湃 
@@ -63,13 +63,13 @@ description: 对于工具的探索，进一步让自己可以脱离预设的局�
 * Economist
 * Newsify
 
-## 摄影
+# 摄影
 
 * Instagram
 * VSCOcam
 * B612 
 
-## 图像处理
+# 图像处理
 
 * Layout 拼图工具 Instagram 出品
 * Snapseed
@@ -86,26 +86,26 @@ description: 对于工具的探索，进一步让自己可以脱离预设的局�
 * MarbleCam 水滴倒影
 * Waterlogue 水彩画
 
-## 摄像
+# 摄像
 
 * Hyperlapse 变速摄影工具 Instagram 出品
 * Spark 45 秒短视频
 * Vine 与 Spark 类似
 * 一瞬 1.2 秒的小短片记录生活
 
-## 音乐
+# 音乐
 
 * 网易云音乐
 * 荔枝FM
 
-## 效率
+# 效率
 
 * Wunderlist 奇妙清单 or check list
 * Sunrise 日历
 * Pomotodo
 * Forest 
 
-## 社区
+# 社区
 
 * 知乎
 * 豆瓣（豆瓣广播）
@@ -126,19 +126,20 @@ description: 对于工具的探索，进一步让自己可以脱离预设的局�
 * 9GAG 图片分享社区
 * Echo 内容分享社区
 
-## 地图 & 地理类
+# 地图 & 地理类
 
 * Google Maps
 * NAPS.ME
 * Citymaps2Go 境外离线地图
 * AirPano 知名景点鸟瞰图册，360° 全景图
 
-## 交通
+# 交通
 
 * Uber
+* 滴滴出行
 
 
-## 旅行
+# 旅行
 
 * Triposo 旅行资讯集
 * Tripadvisor（猫途鹰） 全球最大的点评类网站。旅行攻略、餐厅/景点点评等。
@@ -161,16 +162,16 @@ description: 对于工具的探索，进一步让自己可以脱离预设的局�
 * 小红书
 * Blue Cheese 蓝芝士 点菜助手。实时取景翻译菜单
 
-## 支付
+# 支付
 
 * 支付宝
 
-## 天气
+# 天气
 
 * Yahoo Weather
 * AccuWeather
 
-## 语言
+# 语言
 
 * Duolingo  语言入门学习社区
 * 欧路词典 词典类应用
@@ -179,13 +180,13 @@ description: 对于工具的探索，进一步让自己可以脱离预设的局�
 * Flitto 在线翻译社区
 * 旅行翻译官
 * 
-## 存储
+# 存储
 
 * Dropbox
 * 百度云
 
 
-## 小贴士
+# 小贴士
 
 * Prontotreno 意国铁官方应用
 * TuttoCitta 意大利本国版的 Google Maps
