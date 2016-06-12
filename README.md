@@ -1,4 +1,4 @@
-# Ruanhouli 凌云飞鸿
+# RuanHouli 凌云飞鸿
 
 This is a blog created by Ruanhouli. The blog is live at [ruanhouli.com](http://ruanhouli.com/).
 
@@ -15,10 +15,6 @@ The blog used many tool/service,many thanks to:
 * [Duoshuo](http://duoshuo.com/), a socialization comments plugin.
 * [Google](http://google.com), the one who tell me how to make it.
 * …
-
-## How To Creat A Jekyll Blog
-
-[Build-Your-First-GitHub-Pages-Blog](http://ruanhouli.com/blog/Build-Your-First-GitHub-Pages-Blog.html)
 
 Build your blog Step by step
 ## Just write
