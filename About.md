@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "关于"
 description: "嘿，你总算找到我啦"
 header-img: "img/plane.jpg"
 ---
