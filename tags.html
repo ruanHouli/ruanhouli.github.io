@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Tags
+title: "分类"
 description: "我的航海志"
 header-img: "img/bay.jpg"
 ---
 
 
 <div id="post-list">
-{% for tag in site.tags %}
-<h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2>
+{% for category in site.categories %}
+<h2 id="{{ category[0] }}">{{ category[0] | capitalize }}</h2>
 <ul class="post-list">
-{% assign pages_list = tag[1] %}
+{% assign pages_list = category[1] %}
 {% for post in pages_list %}
 {% if post.title != null %}
 {% if group == null or group == post.group %}
