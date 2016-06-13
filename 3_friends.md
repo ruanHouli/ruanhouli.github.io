@@ -2,6 +2,7 @@
 layout: page
 title: 朋友
 permalink: /friends/
+header-img: "img/friends.jpg"
 ---
 
 ### 伙伴们
