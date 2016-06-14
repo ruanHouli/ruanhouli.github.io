@@ -3,7 +3,7 @@ layout: page
 title: "关于"
 permalink: /about/
 description: "嘿，你总算找到我啦"
-header-img: "img/plane.jpg"
+header-img: "img/blue_sky.jpg"
 ---
 
 <center>
