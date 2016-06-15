@@ -7,7 +7,7 @@ header-img: "img/blue_sky.jpg"
 ---
 
 <center>
-    <p><img src="http://dreamofbook.qiniudn.com/Zero.png" align="center"></p>
+    <p><img src="img/ruanhouli.jpg" align="center"></p>
 </center>
 
 Ehhhh...I know it's not a good question.
