@@ -1,7 +1,11 @@
-title: "Android HTTP必知必会"
-date: 2016-01-08 14:57:36
-categories: android
-tags: [http, android]
+---
+layout: post
+author: 阮后利
+date: 2016-11-11 14:57:36
+title: Android HTTP必知必会
+cover: "zzz"
+categories: Android
+tags: Technology
 ---
 
 HTTP协议使用如此广泛，开发者务必要做到“知”，“会”。
