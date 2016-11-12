@@ -1,6 +1,6 @@
 ---
 layout: post
-author: 阮后利
+author: ruanhouli
 date: 2016-11-11 14:57:36
 title: Android HTTP必知必会
 cover: "zzz"
@@ -12,7 +12,7 @@ HTTP协议使用如此广泛，开发者务必要做到“知”，“会”。
 
 ## 引子
 用curl请求百度首页全解析的过程：
-```
+***
 @feng ➜  jayfeng.com (master) ✗ curl -v http://www.baidu.com > ~/http_get.txt
 * Rebuilt URL to: http://www.baidu.com/
 % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
@@ -50,7 +50,7 @@ Dload  Upload   Total   Spent    Left  Speed
 { [2880 bytes data]
 100 98345    0 98345    0     0   665k      0 --:--:-- --:--:-- --:--:--  671k
 * Connection #0 to host www.baidu.com left intact
-```
+
 
 ## 示意图
 把上面的过程画成示意图如下：
@@ -62,7 +62,7 @@ Dload  Upload   Total   Spent    Left  Speed
 
 ## 结构
 说起来http的结构确实是简单，从上面的示意图大概也能看出来，包括三部分(请求和响应用/区分)：
-```
+***
 - - - - - - - - - - - - - - - - - - - - - - - - - -
 | Request Line / Response Line                    |
 - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -73,7 +73,6 @@ Dload  Upload   Total   Spent    Left  Speed
 | Optional Request Body / Optional Response Body  |
 | ...                                             |
 - - - - - - - - - - - - - - - - - - - - - - - - - -
-```
 
 ### 1. 请求行/状态行
 以上面百度为例子，请求行是：
